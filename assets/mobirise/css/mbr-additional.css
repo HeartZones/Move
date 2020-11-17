@@ -1187,28 +1187,36 @@ section.lazy-placeholder:after {
 .cid-sgdgTJxlv2 a.text-white:focus {
   color: #fff !important;
 }
-.cid-sguHl6Md0M {
-  padding-top: 15px;
+.cid-sgBGFUiINJ {
+  padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #f9f9f9, #f9f9f9);
+  background-color: #f9f9f9;
 }
 @media (min-width: 992px) {
-  .cid-sguHl6Md0M .mbr-figure {
-    padding-right: 3rem;
+  .cid-sgBGFUiINJ .mbr-text {
+    padding-right: 1.15rem;
   }
 }
-@media (max-width: 991px) {
-  .cid-sguHl6Md0M .mbr-figure {
-    padding-top: 0rem;
+@media (min-width: 351px) {
+  .cid-sgBGFUiINJ .mbr-figure {
+    width: 347px !important;
   }
 }
-.cid-sguHl6Md0M .mbr-text,
-.cid-sguHl6Md0M .mbr-section-btn {
+@media (max-width: 350px) {
+  .cid-sgBGFUiINJ .mbr-figure {
+    padding-bottom: 1rem;
+    padding: 0px 0px;
+    width: 100% !important;
+  }
+}
+.cid-sgBGFUiINJ .mbr-text {
   color: #565656;
-  margin-top: -0.5rem;
   text-align: left;
-  padding-right: 1rem;
+}
+.cid-sgBGFUiINJ .col-md-12 {
   padding: 0px 7px;
+  padding-top: .5rem;
+  padding-bottoms: .5rem;
 }
 .cid-sguHo7YD68 {
   padding-top: 30px;
@@ -1388,28 +1396,36 @@ section.lazy-placeholder:after {
 .cid-sgdf4qibxy .mbr-section-subtitle {
   color: #7f1933;
 }
-.cid-sgdn8DMhdA {
-  padding-top: 15px;
+.cid-sgBJppheIN {
+  padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #f9f9f9, #f9f9f9);
+  background-color: #f9f9f9;
 }
 @media (min-width: 992px) {
-  .cid-sgdn8DMhdA .mbr-figure {
-    padding-right: 3rem;
+  .cid-sgBJppheIN .mbr-text {
+    padding-right: 1.15rem;
   }
 }
-@media (max-width: 991px) {
-  .cid-sgdn8DMhdA .mbr-figure {
-    padding-top: 0rem;
+@media (min-width: 351px) {
+  .cid-sgBJppheIN .mbr-figure {
+    width: 347px !important;
   }
 }
-.cid-sgdn8DMhdA .mbr-text,
-.cid-sgdn8DMhdA .mbr-section-btn {
+@media (max-width: 350px) {
+  .cid-sgBJppheIN .mbr-figure {
+    padding-bottom: 1rem;
+    padding: 0px 0px;
+    width: 100% !important;
+  }
+}
+.cid-sgBJppheIN .mbr-text {
   color: #565656;
-  margin-top: -0.5rem;
   text-align: left;
-  padding-right: 1rem;
+}
+.cid-sgBJppheIN .col-md-12 {
   padding: 0px 7px;
+  padding-top: .5rem;
+  padding-bottoms: .5rem;
 }
 .cid-sgdfcOLpGk {
   padding-top: 30px;
