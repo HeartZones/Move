@@ -67,7 +67,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishPath": "file:///Users/Macbook2017/Sites/guides/GitHub_Mobirise/guides"
   },
   "pages": {
     "index.html": {
